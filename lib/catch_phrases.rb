@@ -11,6 +11,7 @@ end
 
 def link
   dangerous = "It's Dangerous To Go Alone! Take This."
+  puts dangerous
 end
 
 def any_phrase(phrase)

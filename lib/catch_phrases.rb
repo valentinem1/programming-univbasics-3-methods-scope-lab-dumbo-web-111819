@@ -10,7 +10,7 @@ def toadstool
 end
 
 def link
-  dangerous = 'It\'s Dangerous To Go Alone! Take This.'
+  dangerous = 
 end
 
 def any_phrase(phrase)

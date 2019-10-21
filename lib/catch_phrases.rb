@@ -10,5 +10,5 @@ def toadstool
 end
 
 def link
-  
+  dangerous = 'It\s Dangerous To Go Alone!Take This.'
 end
